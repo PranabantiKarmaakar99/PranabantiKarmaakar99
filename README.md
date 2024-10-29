@@ -1,7 +1,7 @@
 ## Hi there 👋
 My Name is Pranabanti Karmaakar
 I am a Mom and an aspiring FullStack Developer 
-- 🔭 I’m currently working on a interior Design-built Estimation App to bridge the Gap between homeowners and interior design contractors
+- 🔭 I’m currently working on a interior Design-built Estimation App to bridge the gap between homeowners and Interior Design contractors
 - 🌱 I’m currently learning Rust & Docker
 - 👯 I’m looking to collaborate on Web3/FrontEnd projects
 - 🤔 I’m looking for help with understanding the DeFi World
